@@ -1,4 +1,5 @@
 # curiosity-vue
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -32,3 +33,6 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Proyecto con Vue haciendo uso de la API del curiosity
+>>>>>>> c235f31edd7fb3cc3df59cc4532ba103307e2164
