@@ -1,4 +1,4 @@
-# prueba
+# curiosity-vue
 
 ## Project setup
 ```
