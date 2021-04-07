@@ -1,5 +1,4 @@
 # curiosity-vue
-<<<<<<< HEAD
 
 ## Project setup
 ```
